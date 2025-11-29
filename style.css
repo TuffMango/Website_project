@@ -3,10 +3,16 @@ background-image: url(cloud.jpeg);
 background-repeat: repeat;
 }
 
-h2{
-color: blueviolet;
-}
+
 
 .one{
-    color: aqua;
+    color: rgb(18, 62, 9);
+    text-align: center;
+}
+
+
+.head{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
