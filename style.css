@@ -1,12 +1,14 @@
 body{
-background-image: url(cloud.jpeg);
+background-image: url(final.jpeg);
 background-repeat: repeat;
+
+
 }
 
 
 
 .one{
-    color: rgb(18, 62, 9);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -14,5 +16,56 @@ background-repeat: repeat;
 .head{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    
+
+
+
+
 
 }
+
+
+.total{
+     text-align: center;
+    max-width: 400px;
+    margin: 0 auto 1em auto;
+    line-height: 1.5;
+}
+
+.list1{
+    color: rgb(87, 188, 255);
+}
+.list2{
+    color: rgb(172, 1, 1);
+}
+
+
+.bankai{
+    display: block;
+    margin: auto;
+    width: 250px;
+    
+}
+
+.Ultrakill{
+        display: block;
+    margin: auto;
+    width: 250px;
+}
+
+.Balance{
+        display: block;
+    margin: auto;
+    width: 250px;
+}
+
+h1{
+    text-align: center;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(14, 14, 139);
+    
+}
+
+
