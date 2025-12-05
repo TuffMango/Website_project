@@ -67,5 +67,28 @@ h1{
     border-color: rgb(14, 14, 139);
     
 }
+.cool{
+   background-color: rgb(81, 55, 86);
+  width: 300px;
+  border: 15px solid rgb(3, 21, 65);
+  padding: 50px;
+  margin: auto;
+  box-shadow: 10px;
+  color: white;
+  
+   
+}
+img{
+    width: 300px;
+  border: 15px double rgb(21, 32, 62);
+  padding: 5px;
+  box-shadow: 25px rgb(0, 0, 0)
+}
+.wifetext{
+    color: pink;
+}
 
+html{
+    cursor: im;
+}
 
